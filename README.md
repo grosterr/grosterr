@@ -11,10 +11,11 @@
 
 ### 📊 Статистика GitHub
 
-<div align="center">
-  <img height="185em" src="https://github-stats-extended.vercel.app/api?username=grosterr&show_icons=true&include_all_commits=true&theme=tokyonight&locale=uk-ua&custom_title=Статистика+GitHub&card_width=450" alt="GitHub Stats" />
-  <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua&custom_title=Мови+програмування&card_width=450" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=grosterr&show_icons=true&include_all_commits=true&theme=tokyonight&locale=uk-ua&custom_title=Статистика+GitHub&card_width=400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua&custom_title=Мови+програмування&card_width=400" alt="Top Languages" />
+</p>
+
 
 
 
