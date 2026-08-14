@@ -13,6 +13,7 @@
 ### 📊 Статистика GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=grosterr&show_icons=true&include_all_commits=true&theme=tokyonight&locale=uk-ua" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=grosterr&show_icons=true&include_all_commits=true&theme=tokyonight&locale=uk-ua&custom_title=Статистика+GitHub" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua&custom_title=Топ+мов" alt="Top Languages" />
 </div>
+
