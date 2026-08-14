@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привіт, я groster 👋
+### 💻 .NET / C# Developer | Software Engineer Student @ Zhytomyr Polytechnic
 
-<!--
-**grosterr/grosterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Мій стек та навички
+- **Мови та платформи:** C#, .NET, WPF, C, SQL
+- **Напрямки:** Software Development, Data Structures & Algorithms, Clean Architecture
+- **Навчання & Сертифікація:** Житомирська політехніка, EPAM Campus, AWS Cloud Practitioner Challenge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=grosterr&show_icons=true&include_all_commits=true&theme=tokyonight&locale=uk-ua" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua" alt="Top Languages" />
+</div>
