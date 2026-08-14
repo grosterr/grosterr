@@ -12,7 +12,7 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=grosterr&custom_title=%D0%9F%D0%9E%D0%A2%D0%A3%D0%96%D0%9D%D0%9E%D0%9C%D0%95%D0%A2%D0%A0&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/grosterr)
+    <img width="49%" height="195" src="[https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua&custom_title=Мови+програмування&langs_count=6](https://github-stats-extended.vercel.app/api?username=grosterr&custom_title=%D0%9F%D0%9E%D0%A2%D0%A3%D0%96%D0%9D%D0%9E%D0%9C%D0%95%D0%A2%D0%A0&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/grosterr)](https://github-stats-extended.vercel.app/api?username=grosterr&custom_title=%D0%9F%D0%9E%D0%A2%D0%A3%D0%96%D0%9D%D0%9E%D0%9C%D0%95%D0%A2%D0%A0&show_icons=true&include_all_commits=true&theme=radical)" alt="Top Languages" />
   <img width="49%" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=grosterr&layout=compact&theme=tokyonight&locale=uk-ua&custom_title=Мови+програмування&langs_count=6" alt="Top Languages" />
 </p>
 
